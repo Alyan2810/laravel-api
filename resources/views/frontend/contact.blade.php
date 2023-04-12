@@ -7,7 +7,7 @@
             <div class="row">
                <div class="col-md-12 ">
                   <div class="titlepage text_align_center">
-                     <h2>Contact Us</h2>
+                     <h2>Contact Us Edit</h2>
                      <p>Contact with us for any kind of inquiries and complaints</p>
                   </div>
                </div>
