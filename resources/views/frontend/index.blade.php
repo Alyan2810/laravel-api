@@ -235,7 +235,7 @@
                      <div class="col-md-6">
                         <div class="our_priceing text_align_center">
                            <div class="our_pri">
-                              <h3>Regular Price</h3>
+                              <h3>Regular Pricess</h3>
                               <span>$<strong>50</strong></span>
                               <p>sed do eiusmod <br>tempor incididunt ut <br>labore et dolore<br> magna aliqua. Utenim <br> ad minim aliquip</p>
                            </div>
