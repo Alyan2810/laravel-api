@@ -6,7 +6,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage text_align_center ">
-                     <h2>Latest Blog</h2>
+                     <h2>Latest Blog edit</h2>
                      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
                   </div>
                </div>
